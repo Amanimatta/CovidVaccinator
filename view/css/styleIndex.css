@@ -1,0 +1,18 @@
+.box {
+    background-color: #f7f7ea;
+    border-radius: 20px 20px 0 0;
+    box-shadow: 0 5px 30px 0 rgb(0 0 0 / 80%);
+    clear: both;
+    float: right;
+    margin-right: 4%;
+    margin-top: 4%;
+    padding: 15px 25px;
+    width: 356px;
+}
+
+body {
+    background-image: url("../../images/covid.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}

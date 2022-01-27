@@ -1,0 +1,14 @@
+patient_id,method
+1,phone
+1,sms
+2,sms
+3,phone
+4,e-mail
+5,sms
+5,phone
+6,e-mail
+7,e-mail
+8,e-mail
+8,phone
+9,phone
+9,e-mail
