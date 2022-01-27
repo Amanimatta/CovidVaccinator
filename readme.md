@@ -14,7 +14,7 @@ Contents
 
 Introduction
 
-Covid has been a blight on the world. Luckily, in an unprecedentedly short amount of time, a num- ber of vaccines have been developed. It is now our job as database designers to help get everyone vaccinated as quickly and eciently as possible.
+Covid has been a blight on the world. Luckily, in an unprecedentedly short amount of time, a num- ber of vaccines have been developed. It is now our job as database designers to help get everyone vaccinated as quickly and efficiently as possible.
 
 ![](Aspose.Words.888fceea-d11e-4725-98ff-37b3ab115913.002.jpeg)
 
