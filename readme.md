@@ -8,9 +8,6 @@ Amani Deepthi Matta : am10620 And Ralph Smith : rs6771
 
 May 18, 2021
 
-Contents
-
-[Introduction ](#_page1_x90.00_y77.55)2 [Database Design](#_page2_x90.00_y77.55) 3 [Creating the Database](#_page4_x90.00_y77.55) 5 [Building the Web App](#_page6_x90.00_y77.55) 7 [Testing Data](#_page14_x90.00_y77.55) 15 [Web App walk-through](#_page19_x90.00_y77.55) 20 [Conclusion](#_page32_x90.00_y219.58) 33
 
 Introduction
 
