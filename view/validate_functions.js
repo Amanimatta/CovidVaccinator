@@ -17,7 +17,7 @@ function getLocation(streetNum, streetName, city, state, zip, url)
     let format = "json?"
     let address = "address=";
     let delimiter = "%20";
-    let keyarg = "&key="+"AIzaSyBXCDnfDp8az4JKMG_yxgAk41Wf-o7QoHQ";
+    let keyarg = "&key="+"Give your own key";
     address += streetNum;
     address += delimiter + streetName;
     address += delimiter + city;
