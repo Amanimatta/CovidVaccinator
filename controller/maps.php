@@ -112,7 +112,7 @@ $patient_id = intval($_GET['user']);
       function doNothing() {}
     </script>
     <script async
-    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBXCDnfDp8az4JKMG_yxgAk41Wf-o7QoHQ&callback=initMap">
+    src=<!-- Give the link to google maps api by creating your own account-->>
     </script>
 
   </body>
